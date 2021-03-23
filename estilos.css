@@ -8,6 +8,13 @@
 
     }
 
+    #cabecera #tagline
+    {
+        peding 0 0 0 1em;
+        font-weight: normal;
+        font-size: 0.0em;
+    }
+
     #container
     {
         width: 70%;
